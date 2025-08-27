@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+.eggs/
+.build/
+.dist/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+.env
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# CSV outputs (ensure CSVs are not committed)
+*.csv
+
+# Byte-compiled / optimized / DLL files
+*.so
+
+# Cache
+.pytest_cache/
+.mypy_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
