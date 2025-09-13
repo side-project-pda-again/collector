@@ -83,5 +83,6 @@ def main():
 # -----------------------------------------------------------
 # 프로그램 시작점
 # -----------------------------------------------------------
+#python3 krx_export.py --markets KOSPI,KOSDAQ,ETF --out kr_stocks_etfs.csv
 if __name__ == "__main__":
     main()
